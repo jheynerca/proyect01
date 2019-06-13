@@ -9,5 +9,8 @@
  * @author LAD101SIST-PC06
  */
 public class NewClass {
+     public static void main(String[] args) {
+        System.out.println("HOLA A TODOS");
+     }
     
 }
